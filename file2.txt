@@ -1,5 +1,9 @@
 Enter someting new for test.
+<<<<<<< HEAD
 untesting line
+=======
+testing line
+>>>>>>> 32fa0a6 (happy)
 
 add new one line
 
